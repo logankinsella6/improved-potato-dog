@@ -24,3 +24,7 @@ I certify that the information contained in this README file is complete and acc
 
 Aaron Siddiky
 Logan Kinsella  
+
+96/100
+-2 Not enought comments
+-2 Rectangle perimeter incorrect
